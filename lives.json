@@ -5,7 +5,7 @@
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/WBU0LwWOnKc?list=PLs2dnbECTl4dG8Zqg_m8BqU7nYjMK0OrJ",
       "#title": "OFFLINE",
-      "active": false
+      "active": true
     },
 
 
@@ -18,7 +18,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/68newsroom/videos/465380907597663/",
       "#title": "Stand News 立場新聞",
-      "active": true
+      "active": false
     },
 
     {
