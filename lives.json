@@ -1,0 +1,252 @@
+{
+  "visibleCount": 16,
+  "lives": [
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/639200836578161/",
+      "#title": "OFFLINE",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hk01.news/videos/707006096415275/",
+      "#title": "standnewshk",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": " https://www.youtube.com/embed/HjWbm_tZUME",
+      "#title": "OFFLINE",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": " https://www.facebook.com/standnewshk/videos/361742204540648/",
+      "#title": "OFFLINE",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": " https://www.youtube.com/embed/--F0rCiAGDc",
+      "#title": "OFFLINE",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/inmediahk/videos/333115224283032/",
+      "#title": "RTHKcityforum",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": " https://www.facebook.com/RTHKVNEWS/videos/2254225331496982/",
+      "#title": "Inty",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": " https://www.youtube.com/embed/yBG46oe-MQA",
+      "#title": "Inty",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": " https://www.youtube.com/embed/s1Tg9f64A2s",
+      "#title": "Inty",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": " https://www.youtube.com/embed/T0rnHgP0xfE",
+      "#title": "Inty",
+      "active": true
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/scmp/videos/2341797905911482/",
+      "#title": "Stand News 立場新聞",
+      "active": false
+    },
+
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/wLFgRHgKw48",
+      "#title": "Stand News 立場新聞",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/PMEFNceHjEc",
+      "#title": "Stand News 立場新聞",
+      "active": false
+    }, 
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/433144840572433/",
+      "#title": "Stand News 立場新聞",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/354634831888758/",
+      "#title": "RTHKVNEWS",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/365823714136060/",
+      "#title": "RTHKVNEWS-2",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/now.comNews/videos/462178707878893/",
+      "#title": "now.comNews",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/470393800401856/",
+      "#title": "hk.nextmedia",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/336826313656002",
+      "#title": "standnewshk",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/467449517390540/",
+      "#title": "standnewshk-2",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/445621089554177/",
+      "#title": "standnewshk-3",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/socrec/videos/2904366789788794/",
+      "#title": "socrec",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/inmediahk/videos/2376150506001717/",
+      "#title": "inmediahk",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/JustProductionAus/videos/379956362641870/",
+      "#title": "JustProductionAus",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/13Tr91aBK6E",
+      "#title": "HKTheEpochTimes",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/KRdfY0FEoRI",
+      "#title": "Ruptly",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hk01.news/videos/707519436328297/",
+      "#title": "HK01",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hk01.news/videos/2388131961467596/",
+      "#title": "HK01-2",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/onccnews/videos/333294414259661/",
+      "#title": "onccnews",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/2484481091809353/",
+      "#title": "TMHK.ORG",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/TMHK.ORG/videos/496763447732407/",
+      "#title": "TMHK.ORG-2",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/passiontimes/videos/661259280986907/",
+      "#title": "passiontimes",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/ZudVkj8SePc",
+      "#title": "三立新聞網SETN.com",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/830NyAVy8N8",
+      "#title": "freedomchina2018",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/rthkPCA/videos/638133636691242/",
+      "#title": "rthkPCA",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/QGXP_q5MyV4",
+      "#title": "NTDCHINESE",
+      "active": false
+    },
+    {
+      "type": "yahoo",
+      "#id": "https://finance.yahoo.com/video/yahootv-612-085700502.html?format=embed",
+      "#title": "yahootv",
+      "active": false
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/RTHKcityforum/videos/2056599964649453/",
+      "#title": "RTHKcityforum",
+      "active": false
+    }
+  ]
+}
