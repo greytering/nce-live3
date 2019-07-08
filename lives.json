@@ -2,76 +2,11 @@
   "visibleCount": 16,
   "lives": [
     {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/639200836578161/",
+      "type": "youtube",
+      "#id": " https://www.youtube.com/embed/WBU0LwWOnKc&list=PLs2dnbECTl4dG8Zqg_m8BqU7nYjMK0OrJ&index=1",
       "#title": "OFFLINE",
       "active": true
     },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/707006096415275/",
-      "#title": "standnewshk",
-      "active": true
-    },
-    {
-      "type": "youtube",
-      "#id": " https://www.youtube.com/embed/HjWbm_tZUME",
-      "#title": "OFFLINE",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": " https://www.facebook.com/standnewshk/videos/361742204540648/",
-      "#title": "OFFLINE",
-      "active": true
-    },
-    {
-      "type": "youtube",
-      "#id": " https://www.youtube.com/embed/--F0rCiAGDc",
-      "#title": "OFFLINE",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/333115224283032/",
-      "#title": "RTHKcityforum",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": " https://www.facebook.com/RTHKVNEWS/videos/2254225331496982/",
-      "#title": "Inty",
-      "active": true
-    },
-    {
-      "type": "youtube",
-      "#id": " https://www.youtube.com/embed/yBG46oe-MQA",
-      "#title": "Inty",
-      "active": true
-    },
-    {
-      "type": "youtube",
-      "#id": " https://www.youtube.com/embed/s1Tg9f64A2s",
-      "#title": "Inty",
-      "active": true
-    },
-    {
-      "type": "youtube",
-      "#id": " https://www.youtube.com/embed/T0rnHgP0xfE",
-      "#title": "Inty",
-      "active": true
-    },
-
-
-
-
-
-
-
-
-
-
-
 
 
 
