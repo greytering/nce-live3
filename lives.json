@@ -26,6 +26,19 @@
       "#title": "OFFLINE",
       "active": true
     },
+        {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/icablenews/videos/523719315124459/",
+      "#title": "OFFLINE",
+      "active": true
+    },    
+        {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/now.comNews/videos/468331880672230/",
+      "#title": "OFFLINE",
+      "active": true
+    },    
+    
     
     
     
