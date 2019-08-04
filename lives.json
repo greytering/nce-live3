@@ -27,8 +27,8 @@
       "active": true
     },
         {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/523719315124459/",
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/4C6jtG035H4",
       "#title": "OFFLINE",
       "active": true
     },    
@@ -40,7 +40,7 @@
     },    
      {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/rg7JZv4J1fY",
+      "#id": "https://www.youtube.com/embed/NFxmfAlYQAg",
       "#title": "OFFLINE",
       "active": true
     },
