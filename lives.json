@@ -3,9 +3,46 @@
   "lives": [
     {
       "type": "youtube",
-      "#id": " https://www.youtube.com/embed/WBU0LwWOnKc?list=PLs2dnbECTl4dG8Zqg_m8BqU7nYjMK0OrJ",
+      "#id": "https://www.youtube.com/embed/fd4aBMTZ0xM",
       "#title": "OFFLINE",
       "active": true
+    },
+        {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/m5moM16GMZM",
+      "#title": "OFFLINE",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/bWBCR9QhPsU",
+      "#title": "OFFLINE",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/0dYOG-cVTOA",
+      "#title": "OFFLINE",
+      "active": true
+    },
+
+        {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/C911LWE1cDs",
+      "#title": "OFFLINE",
+      "active": true
+    },
+    
+    
+    
+    
+    
+    
+    {
+      "type": "youtube",
+      "#id": " https://www.youtube.com/embed/WBU0LwWOnKc?list=PLs2dnbECTl4dG8Zqg_m8BqU7nYjMK0OrJ",
+      "#title": "OFFLINE",
+      "active": false
     },
 
 
