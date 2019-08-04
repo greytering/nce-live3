@@ -3,18 +3,6 @@
   "lives": [
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/fd4aBMTZ0xM",
-      "#title": "OFFLINE",
-      "active": true
-    },
-        {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/m5moM16GMZM",
-      "#title": "OFFLINE",
-      "active": true
-    },
-    {
-      "type": "youtube",
       "#id": "https://www.youtube.com/embed/bWBCR9QhPsU",
       "#title": "OFFLINE",
       "active": true
@@ -34,11 +22,10 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/Bg5DPdWwUCk",
+      "#id": "https://www.youtube.com/embed/C911LWE1cDs",
       "#title": "OFFLINE",
       "active": true
     },
-    
     
     
     
