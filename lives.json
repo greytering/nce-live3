@@ -28,7 +28,7 @@
     },
         {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/4C6jtG035H4",
+      "#id": "https://www.youtube.com/embed/Hqfd5Qbp4go",
       "#title": "OFFLINE",
       "active": true
     },    
@@ -45,8 +45,8 @@
       "active": true
     },
     {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/bbcnewstrad/videos/470917520353538/",
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/Hqfd5Qbp4go",
       "#title": "OFFLINE",
       "active": true
     },
