@@ -7,13 +7,6 @@
       "#title": "OFFLINE1",
       "active": true
     },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/Rcxd-8VmrBU",
-      "#title": "OFFLINE2",
-      "active": true
-    },
-
         {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/HFLF9HsaS7I",
@@ -32,12 +25,7 @@
       "#title": "OFFLINE4",
       "active": true
     },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/setnews/videos/221796998700109/",
-      "#title": "OFFLINE4",
-      "active": true
-    },
+
     
     
     
