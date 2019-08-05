@@ -3,57 +3,27 @@
   "lives": [
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/bWBCR9QhPsU",
+      "#id": "https://www.youtube.com/embed/TDDPWbXHqZ0",
       "#title": "OFFLINE1",
       "active": true
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/0dYOG-cVTOA",
+      "#id": "https://www.youtube.com/embed/Rcxd-8VmrBU",
       "#title": "OFFLINE2",
       "active": true
     },
 
         {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/Goiuit6ayuE",
+      "#id": "https://www.youtube.com/embed/HFLF9HsaS7I",
       "#title": "OFFLINE3",
       "active": true
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/H1kdvlAqunY",
+      "#id": "https://www.youtube.com/embed/2h00AWW5ugs",
       "#title": "OFFLINE4",
-      "active": true
-    },
-        {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/AkwOq5atrT8",
-      "#title": "OFFLINE5",
-      "active": true
-    },    
-        {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/403977740223868/",
-      "#title": "OFFLINE6",
-      "active": true
-    },      
-     {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/NFxmfAlYQAg",
-      "#title": "OFFLINE",
-      "active": true
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/5gjBrYL3ito",
-      "#title": "OFFLINE",
-      "active": true
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/aSWMWIZ-_tI",
-      "#title": "OFFLINE",
       "active": true
     },
     
