@@ -1,19 +1,6 @@
 {
   "visibleCount": 16,
   "lives": [
-
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/watch?v=XZ6w6xchBQE",
-      "#title": "OFFLINE",
-      "active": true
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/watch?v=FnvlvkVx7Eg",
-      "#title": "OFFLINE",
-      "active": true
-    },
         {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/rwDHleof1Ns",
@@ -26,6 +13,19 @@
       "#title": "OFFLINE",
       "active": true
     },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/XZ6w6xchBQE",
+      "#title": "OFFLINE",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/FnvlvkVx7Eg",
+      "#title": "OFFLINE",
+      "active": true
+    },
+
     
     
     
